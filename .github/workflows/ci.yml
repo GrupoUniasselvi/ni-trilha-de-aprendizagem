@@ -1,12 +1,15 @@
-name: ci
+name: CI
+
 on:
   push:
-    branches:
-      - production
-permissions:
-  contents: write
+    branches: [ "production" ]
+  pull_request:
+    branches: [ "production" ]
+
+  workflow_dispatch:
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
