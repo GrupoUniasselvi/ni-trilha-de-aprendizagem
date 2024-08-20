@@ -1,6 +1,4 @@
 site_name: Teste Trilha de Aprendizagem
-site_url: https://GrupoUniasselvi.github.io/ni-trilha-de-aprendizagem
-repo_url: https://github.com/GrupoUniasselvi/ni-trilha-de-aprendizagem
 theme:
   name: material
 language: pt-br
