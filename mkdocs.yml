@@ -1,1 +1,18 @@
-site_name: My Docs
+site_name: Teste Trilha de Aprendizagem
+site_url: https://GrupoUniasselvi.github.io/ni-trilha-de-aprendizagem
+repo_url: https://github.com/GrupoUniasselvi/ni-trilha-de-aprendizagem
+nav:
+  - Home: 'index.md'
+theme:
+  name: material
+features:
+  - navigation.tabs
+  - navigation.sections
+  - toc.integrate
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - content.code.annotation
+  - content.code.copy
+language: pt
