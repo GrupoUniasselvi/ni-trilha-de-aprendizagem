@@ -1,4 +1,4 @@
-site_name: Teste Trilha de Aprendizagem
+site_name: Trilha de Aprendizagem Vitru
 theme:
   name: material
   docs_dir: docs
@@ -9,7 +9,6 @@ theme:
     - content.tabs.link
     - navigation.footer
     - navigation.indexes
-    - navigation.sections
     - search.highlight
     - search.share
     - search.suggest
