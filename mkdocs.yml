@@ -27,3 +27,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Modo noturno
+nav:
+  - Início: index.md
+  - Como estudar esta trilha: como_estudar.md
+  - Configuração de ambiente: setup.md
+  - Formação I:
+    - Power BI - Dax:
+      - Jornada I:
+        - Introdução ao Power BI: Formação I/Power BI - Dax/Jornada I/pagina1.md
