@@ -1,4 +1,30 @@
 site_name: Teste Trilha de Aprendizagem
 theme:
   name: material
-language: pt-br
+  docs_dir: docs
+  language: pt-BR
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - search.highlight
+    - search.share
+    - search.suggest
+  plugins:
+    - typeset
+    - search
+  palette:
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
