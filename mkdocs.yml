@@ -1,4 +1,4 @@
-site_name: Trilha de Aprendizagem Vitru
+site_name: Trilha de Aprendizado para Business Intelligence - Vitru Educação
 theme:
   name: material
   docs_dir: docs
@@ -21,7 +21,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Modo claro
-
     - scheme: default
       primary: deep purple
       toggle:
@@ -29,9 +28,103 @@ theme:
         name: Modo noturno
 nav:
   - Início: index.md
-  - Como estudar esta trilha: como_estudar.md
-  - Configuração de ambiente: setup.md
-  - Formação I:
-    - Power BI - Dax:
-      - Jornada I:
-        - Introdução ao Power BI: Formação I/Power BI - Dax/Jornada I/pagina1.md
+  - Comece aqui:
+    - Profissional de BI: 01-comece-aqui\profissional_de_bi.md
+    - Como se organizar para os estudos: 01-comece-aqui\como_organizar_estudos.md
+    - Definição, história e fundamentos: 01-comece-aqui\definicao_historia_fundamentos.md
+  - Aprendendo SQL:
+    - Introdução ao SQL: 02-aprendendo-sql\introducao_sql.md
+    - Sintaxe básica: 02-aprendendo-sql\sintaxe_basica.md
+    - Filtros e seleção de intervalos: 02-aprendendo-sql\filtros_selecao_intervalos.md
+    - Group by e funções de agregação: 02-aprendendo-sql\group_by.md
+    - Junções (JOINS): 02-aprendendo-sql\joins.md
+    - UNION e EXCEPT: 02-aprendendo-sql\union_except.md
+    - Funções de data e conversões de tipos: 02-aprendendo-sql\funcoes_data.md
+    - Funções de texto: 02-aprendendo-sql\funcoes_texto.md
+    - Funções condicionais: 02-aprendendo-sql\funcoes_condicionais.md
+    - Vamos exercitar o aprendizado: criar_pagina.md
+  - Visualizações de dados com Power BI:
+    - Jornada I:
+      - Segmentações: criar_pagina.md
+      - Gráfico de Área: criar_pagina.md
+      - Gráfico de Barras e Colunas: criar_pagina.md
+      - Gráfico de Linhas: criar_pagina.md
+      - Gráfico Combinado: criar_pagina.md
+      - Gráfico de Pizza e Rosca: criar_pagina.md
+      - Gráfico de Medidor: criar_pagina.md
+      - Cartões e KPI: criar_pagina.md
+      - Tabela e Matriz: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+    - Jornada II:
+      - Gráfico de Dispersão: criar_pagina.md
+      - Gráfico de Funil: criar_pagina.md
+      - Gráfico de Cascata: criar_pagina.md
+      - Gráfico de Faixa de Opções: criar_pagina.md
+      - Gráfico de Influenciadores Principais: criar_pagina.md
+      - Árvore de Decomposição: criar_pagina.md
+      - Treemaps: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+  - Trabalhando com a linguagem DAX:
+    - Jornada I:
+      - Entendendo o contexto de linha e de filtro: criar_pagina.md
+      - Medidas Implícitas x Explícitas: criar_pagina.md
+      - Relacionamentos entre tabelas: criar_pagina.md
+      - Funções de agregação: criar_pagina.md
+      - Funções de contexto: criar_pagina.md
+      - Funções lógicas: criar_pagina.md
+      - Funções iterativas: criar_pagina.md
+      - Funções de texto: criar_pagina.md
+      - Funções de data e hora: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+    - Jornada II:
+      - Funções de Filtro: criar_pagina.md
+      - Funções de Inteligencia de Tempo: criar_pagina.md
+      - Funções de Relação: criar_pagina.md
+      - Funções Informativas: criar_pagina.md
+      - Funções de Tabela : criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+    - Jornada III:
+      - Rankings: criar_pagina.md
+      - Funções Estatísticas: criar_pagina.md
+      - Analisando e Comparando Cenários: criar_pagina.md
+      - Simuladores e Projeções: criar_pagina.md
+      - Analisando Segmentações: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+  - Modelagem de dados com o Power Query:
+    - Jornada I:
+      - Conhecendo o Power Query Editor: criar_pagina.md
+      - Tipo dos dados: criar_pagina.md
+      - Importação de dados: criar_pagina.md
+      - Gerenciar linhas e colunas: criar_pagina.md
+      - Trabalhando com textos: criar_pagina.md
+      - Trabalhando com datas: criar_pagina.md
+      - Criando funções condicionais: criar_pagina.md
+      - Gerenciar Parâmetros: criar_pagina.md
+      - Transpor tabelas: criar_pagina.md
+      - Relacionamentos: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+    - Jornada II:
+      - Combinando consultas: criar_pagina.md
+      - Mesclando consultas: criar_pagina.md
+      - Agrupamento e sumarização: criar_pagina.md
+      - Consulta nula e o editor avançado: criar_pagina.md
+      - Invocar função personalizada: criar_pagina.md
+      - Calendário Padrão: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+  - Power BI Serviço:
+    - Conceitos de Workspaces, Dataflows e Datasets: criar_pagina.md
+    - Conceitos Gateway e Conexões: criar_pagina.md
+    - Permissões: criar_pagina.md
+    - Licenciamento: criar_pagina.md
+    - Publicação de Datasets e Relatórios: criar_pagina.md
+    - Assinatura de Relatórios: criar_pagina.md
+    - Vamos exercitar o aprendizado: criar_pagina.md
+  - Conceitos de Dataviz:
+    - Jornada I:
+      - Storytelling com Dados: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+    - Jornada II:
+      - UX/UI para Power BI Desktop: criar_pagina.md
+      - Vamos exercitar o aprendizado: criar_pagina.md
+    
+  
