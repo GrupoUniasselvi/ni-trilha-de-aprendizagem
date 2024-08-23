@@ -29,19 +29,19 @@ theme:
 nav:
   - Início: index.md
   - Comece aqui:
-    - Profissional de BI: 01-comece-aqui\profissional_de_bi.md
-    - Como se organizar para os estudos: 01-comece-aqui\como_organizar_estudos.md
-    - Definição, história e fundamentos: 01-comece-aqui\definicao_historia_fundamentos.md
+    - Profissional de BI: 01-comece-aqui/profissional_de_bi.md
+    - Como se organizar para os estudos: 01-comece-aqui/como_organizar_estudos.md
+    - Definição, história e fundamentos: 01-comece-aqui/definicao_historia_fundamentos.md
   - Aprendendo SQL:
-    - Introdução ao SQL: 02-aprendendo-sql\introducao_sql.md
-    - Sintaxe básica: 02-aprendendo-sql\sintaxe_basica.md
-    - Filtros e seleção de intervalos: 02-aprendendo-sql\filtros_selecao_intervalos.md
-    - Group by e funções de agregação: 02-aprendendo-sql\group_by.md
-    - Junções (JOINS): 02-aprendendo-sql\joins.md
-    - UNION e EXCEPT: 02-aprendendo-sql\union_except.md
-    - Funções de data e conversões de tipos: 02-aprendendo-sql\funcoes_data.md
-    - Funções de texto: 02-aprendendo-sql\funcoes_texto.md
-    - Funções condicionais: 02-aprendendo-sql\funcoes_condicionais.md
+    - Introdução ao SQL: 02-aprendendo-sql/introducao_sql.md
+    - Sintaxe básica: 02-aprendendo-sql/sintaxe_basica.md
+    - Filtros e seleção de intervalos: 02-aprendendo-sql/filtros_selecao_intervalos.md
+    - Group by e funções de agregação: 02-aprendendo-sql/group_by.md
+    - Junções (JOINS): 02-aprendendo-sql/joins.md
+    - UNION e EXCEPT: 02-aprendendo-sql/union_except.md
+    - Funções de data e conversões de tipos: 02-aprendendo-sql/funcoes_data.md
+    - Funções de texto: 02-aprendendo-sql/funcoes_texto.md
+    - Funções condicionais: 02-aprendendo-sql/funcoes_condicionais.md
     - Vamos exercitar o aprendizado: criar_pagina.md
   - Visualizações de dados com Power BI:
     - Jornada I:
