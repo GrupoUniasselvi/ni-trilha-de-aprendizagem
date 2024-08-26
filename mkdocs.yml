@@ -45,86 +45,73 @@ nav:
     - Vamos exercitar o aprendizado: criar_pagina.md
   - Visualizações de dados com Power BI:
     - Jornada I:
-      - Segmentações: criar_pagina.md
-      - Gráfico de Área: criar_pagina.md
-      - Gráfico de Barras e Colunas: criar_pagina.md
-      - Gráfico de Linhas: criar_pagina.md
-      - Gráfico Combinado: criar_pagina.md
-      - Gráfico de Pizza e Rosca: criar_pagina.md
-      - Gráfico de Medidor: criar_pagina.md
-      - Cartões e KPI: criar_pagina.md
-      - Tabela e Matriz: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Segmentações: 03-powerbi-dataviz/jornada-I/segmentacao.md
+      - Gráfico de Área: 03-powerbi-dataviz/jornada-I/grafico_area.md
+      - Gráfico de Barras e Colunas: 03-powerbi-dataviz/jornada-I/grafico_coluna_e_barra.md
+      - Gráfico de Linhas: 03-powerbi-dataviz/jornada-I/grafico_linha.md
+      - Gráfico Combinado: 03-powerbi-dataviz/jornada-I/grafico_combinado.md
+      - Gráfico de Pizza e Rosca: 03-powerbi-dataviz/jornada-I/grafico_pizza.md
+      - Gráfico de Medidor: 03-powerbi-dataviz/jornada-I/grafico_medidor.md
+      - Cartões e KPI: 03-powerbi-dataviz/jornada-I/cartao_e_kpi.md
+      - Tabela e Matriz: 03-powerbi-dataviz/jornada-I/tabela_e_matriz.md
     - Jornada II:
-      - Gráfico de Dispersão: criar_pagina.md
-      - Gráfico de Funil: criar_pagina.md
-      - Gráfico de Cascata: criar_pagina.md
-      - Gráfico de Faixa de Opções: criar_pagina.md
-      - Gráfico de Influenciadores Principais: criar_pagina.md
-      - Árvore de Decomposição: criar_pagina.md
-      - Treemaps: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Gráfico de Dispersão: 03-powerbi-dataviz/jornada-II/grafico_dispersao.md
+      - Gráfico de Funil: 03-powerbi-dataviz/jornada-II/grafico_funil.md
+      - Gráfico de Cascata: 03-powerbi-dataviz/jornada-II/grafico_cascata.md
+      - Gráfico de Faixa de Opções: 03-powerbi-dataviz/jornada-II/grafico_faixa_de_opcoes.md
+      - Gráfico de Influenciadores Principais: 03-powerbi-dataviz/jornada-II/grafico_influenciadores_principais.md
+      - Árvore de Decomposição: 03-powerbi-dataviz/jornada-II/arvore_de_decomposicao.md
+      - Treemaps: 03-powerbi-dataviz/jornada-II/grafico_treemap.md
   - Trabalhando com a linguagem DAX:
     - Jornada I:
-      - Entendendo o contexto de linha e de filtro: criar_pagina.md
-      - Medidas Implícitas x Explícitas: criar_pagina.md
-      - Relacionamentos entre tabelas: criar_pagina.md
-      - Funções de agregação: criar_pagina.md
-      - Funções de contexto: criar_pagina.md
-      - Funções lógicas: criar_pagina.md
-      - Funções iterativas: criar_pagina.md
-      - Funções de texto: criar_pagina.md
-      - Funções de data e hora: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Entendendo o contexto de linha e de filtro: 04-powerbi-dax/jornada-I/entendendo_contexto_ linha_filtro.md
+      - Medidas Implícitas x Explícitas: 04-powerbi-dax/jornada-I/medidas_implicitas_x_explicitas.md
+      - Relacionamentos entre tabelas: 04-powerbi-dax/jornada-I/relacionamentos_entre_tabelas.md
+      - Funções de agregação: 04-powerbi-dax/jornada-I/funcoes_agregacao.md
+      - Funções de contexto: 04-powerbi-dax/jornada-I/funcoes_contexto.md
+      - Funções lógicas: 04-powerbi-dax/jornada-I/funções_logicas.md
+      - Funções iterativas: 04-powerbi-dax/jornada-I/funções_iterativas.md
+      - Funções de texto: 04-powerbi-dax/jornada-I/funcoes_texto.md
+      - Funções de data e hora: 04-powerbi-dax/jornada-I/funcoes_data.md
     - Jornada II:
-      - Funções de Filtro: criar_pagina.md
-      - Funções de Inteligencia de Tempo: criar_pagina.md
-      - Funções de Relação: criar_pagina.md
-      - Funções Informativas: criar_pagina.md
-      - Funções de Tabela : criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Funções de Filtro: 04-powerbi-dax/jornada-II/funcoes_filtro.md
+      - Funções de Inteligencia de Tempo: 04-powerbi-dax/jornada-II/funcoes_inteligencia.md
+      - Funções de Relação: 04-powerbi-dax/jornada-II/funcoes_relacao.md
+      - Funções Informativas: 04-powerbi-dax/jornada-II/funcoes_informativas.md
+      - Funções de Tabela : 04-powerbi-dax/jornada-II/funcoes_tabela.md
     - Jornada III:
-      - Rankings: criar_pagina.md
-      - Funções Estatísticas: criar_pagina.md
-      - Analisando e Comparando Cenários: criar_pagina.md
-      - Simuladores e Projeções: criar_pagina.md
-      - Analisando Segmentações: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Rankings: 04-powerbi-dax/jornada-III/rankings.md
+      - Funções Estatísticas: 04-powerbi-dax/jornada-III/funcoes_estatisticas.md
+      - Analisando e Comparando Cenários: 04-powerbi-dax/jornada-III/analisando_cenarios.md
+      - Simuladores e Projeções: 04-powerbi-dax/jornada-III/simuladores_projecoes.md
+      - Analisando Segmentações: 04-powerbi-dax/jornada-III/analisando_segmentacoes.md
   - Modelagem de dados com o Power Query:
     - Jornada I:
-      - Conhecendo o Power Query Editor: criar_pagina.md
-      - Tipo dos dados: criar_pagina.md
-      - Importação de dados: criar_pagina.md
-      - Gerenciar linhas e colunas: criar_pagina.md
-      - Trabalhando com textos: criar_pagina.md
-      - Trabalhando com datas: criar_pagina.md
-      - Criando funções condicionais: criar_pagina.md
-      - Gerenciar Parâmetros: criar_pagina.md
-      - Transpor tabelas: criar_pagina.md
-      - Relacionamentos: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Conhecendo o Power Query Editor: 05-powerbi-powerquery/jornada-I/conhecendo_power_query.md
+      - Tipo dos dados: 05-powerbi-powerquery/jornada-I/tipo_dos_dados.md
+      - Importação de dados: 05-powerbi-powerquery/jornada-I/importacao_dados.md
+      - Gerenciar linhas e colunas: 05-powerbi-powerquery/jornada-I/gerenciar_linhas_colunas.md
+      - Trabalhando com textos: 05-powerbi-powerquery/jornada-I/trabalhando_textos.md
+      - Trabalhando com datas: 05-powerbi-powerquery/jornada-I/trabalhando_datas.md
+      - Criando funções condicionais: 05-powerbi-powerquery/jornada-I/criando_funcoes_condicionais.md
+      - Gerenciar Parâmetros: 05-powerbi-powerquery/jornada-I/gerenciar_parametros.md
+      - Transpor tabelas: 05-powerbi-powerquery/jornada-I/transpor_tabelas.md
+      - Relacionamentos: 05-powerbi-powerquery/jornada-I/relacionamentos.md
     - Jornada II:
-      - Combinando consultas: criar_pagina.md
-      - Mesclando consultas: criar_pagina.md
-      - Agrupamento e sumarização: criar_pagina.md
-      - Consulta nula e o editor avançado: criar_pagina.md
-      - Invocar função personalizada: criar_pagina.md
-      - Calendário Padrão: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Combinando consultas: 05-powerbi-powerquery/jornada-II/combinando_consultas.md
+      - Mesclando consultas: 05-powerbi-powerquery/jornada-II/mesclando_consultas.md
+      - Agrupamento e sumarização: 05-powerbi-powerquery/jornada-II/agrupamento_sumarizacao.md
+      - Consulta nula e o editor avançado: 05-powerbi-powerquery/jornada-II/consulta_nula_editor_avancado.md
+      - Invocar função personalizada: 05-powerbi-powerquery/jornada-II/invocar_funcao_personalizada.md
+      - Calendário Padrão: 05-powerbi-powerquery/jornada-II/calendario_padrao.md
   - Power BI Serviço:
-    - Conceitos de Workspaces, Dataflows e Datasets: criar_pagina.md
-    - Conceitos Gateway e Conexões: criar_pagina.md
-    - Permissões: criar_pagina.md
-    - Licenciamento: criar_pagina.md
-    - Publicação de Datasets e Relatórios: criar_pagina.md
-    - Assinatura de Relatórios: criar_pagina.md
-    - Vamos exercitar o aprendizado: criar_pagina.md
+    - Conceitos de Workspaces, Dataflows e Datasets: 06-powerbi-servico/conceitos_workspaces.md
+    - Permissões: 06-powerbi-servico/permissoes.md
+    - Licenciamento: 06-powerbi-servico/licenciamento.md
+    - Publicação de Datasets e Relatórios: 06-powerbi-servico/publicacao_datasets.md
+    - Assinatura de Relatórios: 06-powerbi-servico/assinatura_relatorios.md
   - Conceitos de Dataviz:
     - Jornada I:
-      - Storytelling com Dados: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
+      - Storytelling com Dados: 07-dataviz/jornada-I/storytelling_dados.md
     - Jornada II:
-      - UX/UI para Power BI Desktop: criar_pagina.md
-      - Vamos exercitar o aprendizado: criar_pagina.md
-    
-  
+      - UX/UI para Power BI Desktop: 07-dataviz/jornada-II/ux_ui_powerbi_desktop.md
