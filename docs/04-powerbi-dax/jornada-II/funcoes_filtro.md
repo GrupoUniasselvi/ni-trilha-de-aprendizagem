@@ -4,8 +4,6 @@ As funções de filtro são componentes essenciais do DAX no Power BI, permitind
 
 ---
 
-# Leituras recomendadas:
-
 ## Funções de Filtro
 
 https://learn.microsoft.com/pt-br/dax/filter-functions-dax
@@ -17,15 +15,13 @@ A função FILTER é uma das mais poderosas no DAX, permitindo a criação de su
 Link: https://www.hashtagtreinamentos.com/dax-power-bi-filter
  
 ## Como Utilizar Função Filter no Power BI (DAX)
-
+\
 Link: https://ninjadoexcel.com.br/funcao-filter-no-power-bi/
  
 ## DAX – Funções Tabulares
 
 Link: https://managebi.com/2021/11/29/dax-funcoes-tabulares/
 
-# Vídeos Recomendados:
- 
 ## Entenda as funções ALL, ALLSELECTED e ALLEXCEPT no Power BI
 
 As funções ALL, ALLSELECTED e ALLEXCEPT são usadas para ignorar ou modificar filtros aplicados em um conjunto de dados. Elas são fundamentais para cálculos que precisam considerar ou excluir determinadas colunas ou tabelas. Dominar essas funções permitirá que você crie análises mais dinâmicas e flexíveis.

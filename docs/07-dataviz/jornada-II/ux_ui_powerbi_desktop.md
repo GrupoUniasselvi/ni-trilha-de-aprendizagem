@@ -2,6 +2,8 @@
 
 Neste tópico, vamos explorar como aplicar princípios de design e usabilidade para criar dashboards atraentes e eficazes. Aprenderemos a utilizar técnicas de design, escolher paletas de cores, e empregar ferramentas como o Figma para otimizar a experiência do usuário em seus relatórios. Vamos transformar seus dashboards em ferramentas visuais que são não apenas funcionais, mas também esteticamente agradáveis.
 
+----
+
 ## Leis da PSICOLOGIA em Design de Dashboards? Os Principais Aprendizados deste Livro:
 
 Descubra como os princípios da psicologia podem influenciar o design de dashboards e melhorar a eficácia da comunicação visual.

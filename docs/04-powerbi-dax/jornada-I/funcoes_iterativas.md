@@ -2,6 +2,8 @@
 
 As funções iterativas no Power BI, como SUMX, AVERAGEX, MINX e MAXX, permitem realizar cálculos linha por linha, proporcionando uma análise mais detalhada e precisa. Vamos mergulhar nas funções iterativas e entender seu poder no DAX.
 
+---
+
 ## Funções de agregação
 
 Acesse a documentação oficial da Microsoft para obter uma visão detalhada sobre funções de agregação no DAX, incluindo SUMX e outras funções iterativas.
@@ -19,7 +21,7 @@ https://www.hashtagtreinamentos.com/formulas-dax
 Este artigo ajuda a compreender como as funções iteradoras funcionam e como podem ser aplicadas em cenários reais.
 
 https://www.dataside.com.br/dataside-community/power-bi/entendendo-as-funcoes-iteradoras
- 
+
 ## FUNÇÕES ITERADORAS com X no final (SUMX, AVERAGEX) no Power BI
 
 Assista a este vídeo que demonstra o uso de funções como SUMX e AVERAGEX no Power BI.

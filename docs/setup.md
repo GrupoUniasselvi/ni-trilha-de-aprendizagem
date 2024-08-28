@@ -1,5 +1,0 @@
-# Configurando ambiente
-
-## Subtítulo
-
-Texto.

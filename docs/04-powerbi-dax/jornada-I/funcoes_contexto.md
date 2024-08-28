@@ -2,6 +2,8 @@
 
 Esta função é uma das mais importantes no DAX, permitindo que você modifique o contexto de filtros aplicado a suas medidas, abrindo um leque de possibilidades analíticas avançadas.
  
+---
+ 
 ## CALCULATE
 
 Entenda a sintaxe e a aplicação da função CALCULATE diretamente da documentação oficial do DAX.
@@ -13,7 +15,7 @@ https://learn.microsoft.com/pt-br/dax/calculate-function-dax
 Explore este artigo detalhado que explica por que CALCULATE é essencial para o Power BI e como utilizá-la em seus projetos.
 
 Link: https://www.hashtagtreinamentos.com/calculate-power-bi
- 
+
 ## Como usar a Fórmula CALCULATE no Power BI (A Fórmula Mais Importante do Power BI!)
 
 Um vídeo que demonstra como a função CALCULATE pode transformar suas análises no Power BI. 

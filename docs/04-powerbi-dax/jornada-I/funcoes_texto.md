@@ -2,6 +2,8 @@
 
 Explorando TRIM, LEN, LEFT, RIGHT, MID, REPT, LOWER, UPPER, SEARCH, REPLACE, CONCATENATE. As funções de texto no Power BI são essenciais para manipular e organizar dados textuais. Estas funções permitem realizar operações como remoção de espaços, cálculo do tamanho de strings, extração de caracteres e concatenação de valores, facilitando a criação de relatórios e dashboards mais eficientes e precisos.
 
+---
+ 
 ## Funções de texto
 
 Este vídeo oferece uma introdução abrangente às funções de texto no DAX, abordando funções como TRIM, LEN, LEFT, RIGHT, e outras. Assista ao vídeo para uma visão geral.

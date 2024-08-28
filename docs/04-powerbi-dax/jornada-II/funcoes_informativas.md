@@ -4,8 +4,6 @@ As funções informativas no DAX são fundamentais para verificar condições es
 
 ---
 
-# Leituras Recomendadas:
-
 ## Funções informativas
 
 https://learn.microsoft.com/pt-br/dax/information-functions-dax
@@ -17,8 +15,6 @@ https://towardsdatascience.com/exploring-the-filter-context-with-dax-functions-4
 ## Distinguishing HASONEVALUE from ISINSCOPE
 
 https://www.sqlbi.com/articles/distinguishing-hasonevalue-from-isinscope/
-
-# Vídeos Recomendados:
 
 ## Diferenciando HASONEVALUE, HASONEFILTER, ISFILTERED, ISINSCOPE (Alterando o Contexto dos Totais)
 

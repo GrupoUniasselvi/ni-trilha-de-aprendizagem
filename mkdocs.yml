@@ -42,7 +42,6 @@ nav:
     - Funções de data e conversões de tipos: 02-aprendendo-sql/funcoes_data.md
     - Funções de texto: 02-aprendendo-sql/funcoes_texto.md
     - Funções condicionais: 02-aprendendo-sql/funcoes_condicionais.md
-    - Vamos exercitar o aprendizado: criar_pagina.md
   - Visualizações de dados com Power BI:
     - Jornada I:
       - Segmentações: 03-powerbi-dataviz/jornada-I/segmentacao.md
@@ -69,8 +68,8 @@ nav:
       - Relacionamentos entre tabelas: 04-powerbi-dax/jornada-I/relacionamentos_entre_tabelas.md
       - Funções de agregação: 04-powerbi-dax/jornada-I/funcoes_agregacao.md
       - Funções de contexto: 04-powerbi-dax/jornada-I/funcoes_contexto.md
-      - Funções lógicas: 04-powerbi-dax/jornada-I/funções_logicas.md
-      - Funções iterativas: 04-powerbi-dax/jornada-I/funções_iterativas.md
+      - Funções lógicas: 04-powerbi-dax/jornada-I/funcoes_logicas.md
+      - Funções iterativas: 04-powerbi-dax/jornada-I/funcoes_iterativas.md
       - Funções de texto: 04-powerbi-dax/jornada-I/funcoes_texto.md
       - Funções de data e hora: 04-powerbi-dax/jornada-I/funcoes_data.md
     - Jornada II:
@@ -105,13 +104,17 @@ nav:
       - Invocar função personalizada: 05-powerbi-powerquery/jornada-II/invocar_funcao_personalizada.md
       - Calendário Padrão: 05-powerbi-powerquery/jornada-II/calendario_padrao.md
   - Power BI Serviço:
-    - Conceitos de Workspaces, Dataflows e Datasets: 06-powerbi-servico/conceitos_workspaces.md
-    - Permissões: 06-powerbi-servico/permissoes.md
-    - Licenciamento: 06-powerbi-servico/licenciamento.md
-    - Publicação de Datasets e Relatórios: 06-powerbi-servico/publicacao_datasets.md
-    - Assinatura de Relatórios: 06-powerbi-servico/assinatura_relatorios.md
+    - Introdução ao Power BI Online, Navegação e Interface: 06-powerbi-servico/jornada-I/introducao_powerbi_online.md
+    - Compartilhar e Colaborar: 06-powerbi-servico/jornada-I/compartilhar_colaborar.md
+    - Conceitos de Workspaces, Dataflows e Datasets: 06-powerbi-servico/jornada-I/conceitos_workspaces.md
+    - Conceitos Gateway e Conexões: 06-powerbi-servico/jornada-I/conceitos_gateway_conexoes.md
+    - Permissões: 06-powerbi-servico/jornada-I/permissoes.md
+    - Licenciamento: 06-powerbi-servico/jornada-I/licenciamento.md
+    - Assinatura de Relatórios: 06-powerbi-servico/jornada-I/assinatura_relatorios.md
   - Conceitos de Dataviz:
     - Jornada I:
       - Storytelling com Dados: 07-dataviz/jornada-I/storytelling_dados.md
     - Jornada II:
       - UX/UI para Power BI Desktop: 07-dataviz/jornada-II/ux_ui_powerbi_desktop.md
+  - Conclusão:
+    - Conclusão: 08-conclusao/conclusao.md

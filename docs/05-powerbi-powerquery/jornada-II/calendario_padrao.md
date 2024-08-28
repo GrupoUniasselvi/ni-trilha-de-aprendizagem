@@ -4,8 +4,6 @@ Neste tópico, vamos explorar a importância e os métodos para criar uma tabela
 
 --- 
 
-# Vídeos Recomendados:
-
 ## Por que Preciso de uma Tabela Calendário no Power BI
 
 Entenda a importância de ter uma tabela de calendário no Power BI e como ela pode impactar suas análises de dados.

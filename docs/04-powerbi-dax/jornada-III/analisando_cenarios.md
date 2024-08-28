@@ -4,8 +4,6 @@ A análise de cenários é uma técnica essencial para entender como diferentes 
 
 ---
 
-# Vídeos Recomendados:
-
 ## Power BI What IF: Analisando Cenários com Parâmetros de Hipóteses
 
 O recurso "What-If" no Power BI permite que você crie parâmetros que simulem diferentes condições e cenários hipotéticos. Isso é útil para prever o impacto de mudanças em variáveis e tomar decisões baseadas em diferentes possíveis futuros.

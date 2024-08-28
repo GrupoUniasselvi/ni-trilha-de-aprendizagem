@@ -4,8 +4,6 @@ As funções de relação no DAX permitem que você gerencie e manipule os relac
 
 ---
 
-# Leituras Recomendadas:
-
 ## Funções de relação
 
 https://learn.microsoft.com/pt-br/dax/relationship-functions-dax
@@ -17,8 +15,6 @@ https://www.hashtagtreinamentos.com/funcao-userelationship-power-bi
 ## FUNÇÃO RELATED – Como Relacionar Tabelas no Power-BI
 
 https://www.hashtagtreinamentos.com/funcao-related-power-bi
-
-# Vídeos Recomendados:
 
 ## Função USERELATIONSHIP - Relacionamentos com Fórmulas DAX no Power BI
 

@@ -2,10 +2,14 @@
 
 Neste tópico, você vai explorar algumas das funções mais fundamentais no DAX, como SUM, AVERAGE, MIN, MAX, COUNT e DISTINCTCOUNT. Essas funções são essenciais para resumir e analisar grandes volumes de dados de forma eficiente, fornecendo insights valiosos para a tomada de decisões.
 
+---
+
+## Funções de agregação
+
 Aprenda sobre as principais funções de agregação disponíveis no DAX, e como utilizá-las em seus relatórios no Power BI:
 
 https://learn.microsoft.com/pt-br/dax/aggregation-functions-dax
- 
+
 ## Funções SUM, AVERAGE, COUNTA, COUNTBLANK, COUNTROWS
 
 Este vídeo explica como usar algumas das funções de agregação mais comuns no Power BI.

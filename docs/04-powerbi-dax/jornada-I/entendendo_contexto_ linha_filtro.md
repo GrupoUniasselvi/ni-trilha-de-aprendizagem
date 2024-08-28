@@ -4,8 +4,6 @@ Neste tópico, vamos mergulhar nos conceitos fundamentais de contexto em fórmul
 
 ---
 
-# Leituras recomendadas:
-
 ## Contexto em fórmulas DAX:
 
 Explore o conceito de contexto dentro das fórmulas DAX e como ele impacta o comportamento das funções nas suas análises.
@@ -23,7 +21,7 @@ https://www.alura.com.br/artigos/power-bi-contexto-linha-filtro
 Aprofunde-se nos diferentes tipos de contexto no Power BI, incluindo o contexto de linha e de filtro, para aplicar corretamente em suas análises.
 
 https://www.hashtagtreinamentos.com/tipos-de-contexto-no-power-bi
- 
+
 ## VOCÊ CONHECE OS TIPOS DE CONTEXTOS NO POWER BI?
 
 Assista a este vídeo para obter uma explicação detalhada sobre os diferentes tipos de contexto no Power BI.

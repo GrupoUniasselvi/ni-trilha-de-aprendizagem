@@ -4,8 +4,6 @@ Neste tópico, você aprenderá como lidar com cabeçalhos, remover linhas e ger
 
 ---
 
-# Vídeos Recomendados:
-
 ## Como definir o cabeçalho no Power Query quando a fonte é uma planilha bagunçada
 
 Aprenda a ajustar e definir corretamente os cabeçalhos em planilhas desorganizadas usando o Power Query.

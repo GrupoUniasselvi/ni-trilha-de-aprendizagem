@@ -4,8 +4,6 @@ Neste módulo, vamos explorar as funções de data e hora no Power BI, incluindo
 
 ---
 
-# Leituras recomendadas:
-
 ## Funções de data e hora
 
 Documentação oficial da Microsoft sobre funções de data e hora no DAX.
@@ -17,8 +15,6 @@ https://learn.microsoft.com/pt-br/dax/date-and-time-functions-dax
 Entenda como manipular e calcular horas no Power BI. 
 
 https://www.hashtagtreinamentos.com/horas-no-power-bi
-
-# Vídeos Recomendados:
 
 ## Como SOMAR HORAS da Forma Correta no Power BI (Formato hh:mm:ss) 
 

@@ -4,8 +4,6 @@ Neste tópico, você aprenderá como criar e usar funções personalizadas para 
 
 ---
 
-# Leituras Recomendadas:
-
 ## Usar funções personalizadas
 
 Entenda como criar e utilizar funções personalizadas no Power Query para adaptar suas transformações às suas necessidades específicas. 
@@ -17,8 +15,6 @@ https://learn.microsoft.com/pt-br/power-query/custom-function
 Descubra um guia detalhado sobre como criar funções personalizadas no Power Query e como elas podem beneficiar seus projetos.
 
 https://exceldriven.com/recursos/blog/power-query-criar-funcoes-personalizadas
-
-# Vídeos Recomendados:
 
 ## Função Personalizada e Transformação de Colunas com a Linguagem M
 

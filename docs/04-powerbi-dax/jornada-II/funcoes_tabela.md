@@ -4,8 +4,6 @@ As funções de tabela no DAX permitem a criação e manipulação de tabelas vi
 
 ---
 
-# Leituras Recomendadas:
-
 ## Funções de manipulação de tabelas:
 
 https://learn.microsoft.com/pt-br/dax/table-manipulation-functions-dax
@@ -13,8 +11,6 @@ https://learn.microsoft.com/pt-br/dax/table-manipulation-functions-dax
 ## Best practices using SUMMARIZE and ADDCOLUMNS:
 
 https://www.sqlbi.com/articles/best-practices-using-summarize-and-addcolumns/
-
-# Vídeos Recomendados:
 
 ## Power BI (desktop) - O Poder das Tabelas Virtuais com SUMMARIZE e ADDCOLUMNS:
 

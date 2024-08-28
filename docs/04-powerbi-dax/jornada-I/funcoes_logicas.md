@@ -1,6 +1,10 @@
 # Funções Lógicas
 
 No Power BI, as funções lógicas desempenham um papel crucial na construção de fórmulas e na criação de condições que orientam a análise de dados. Vamos explorar algumas das principais funções lógicas: IF, SWITCH, AND, OR e COALESCE.
+
+---
+
+## Documentação: Microsoft (00:02)
  
 Acesse a documentação oficial da Microsoft para entender as funções lógicas no DAX, incluindo detalhes e exemplos de uso.
 
@@ -17,7 +21,7 @@ https://www.hashtagtreinamentos.com/funcoes-condicionais-no-power-bi
 Aprenda sobre a função SWITCH, que pode simplificar múltiplas condições aninhadas.
 
 https://www.hashtagtreinamentos.com/funcao-switch-no-power-bi
- 
+
 ## Condicionais AND e OR - Lógica no Power BI
 
 Assista a este vídeo que explora a aplicação das condicionais AND e OR no Power BI:

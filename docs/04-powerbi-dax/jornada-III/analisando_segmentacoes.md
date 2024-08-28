@@ -4,8 +4,6 @@ A análise de segmentações é crucial para identificar padrões e priorizar a�
 
 ---
 
-# Vídeos Recomendados:
-
 ## Gráfico de Pareto no Power BI
 
 O Gráfico de Pareto é uma ferramenta poderosa para visualizar a importância relativa de itens e identificar os principais fatores que impactam seu negócio. Neste tutorial, você aprenderá a criar e personalizar um Gráfico de Pareto no Power BI.

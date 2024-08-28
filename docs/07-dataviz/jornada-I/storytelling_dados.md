@@ -2,6 +2,8 @@
 
 Aqui vamos explorar como transformar dados em histórias envolventes e eficazes. O storytelling com dados é uma técnica essencial para comunicar insights de forma clara e persuasiva. Aprenderemos a escolher os gráficos certos, manter a simplicidade e organização, e utilizar consistência e criatividade para criar apresentações impactantes.
 
+---
+
 ## O que é e como fazer Storytelling com Dados?
 
 Entenda o conceito de storytelling com dados e aprenda as melhores práticas para contar histórias envolventes através das suas análises.

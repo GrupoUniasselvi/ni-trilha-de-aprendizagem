@@ -4,13 +4,9 @@ As funções estatísticas são essenciais para analisar e interpretar dados de 
 
 ---
 
-# Leitura Recomendada:
-
 ## Funções estatísticas
 
 https://learn.microsoft.com/pt-br/dax/statistical-functions-dax
-
-# Vídeos Recomendados:
 
 ## Como Utilizar Estatísticas para fazer Análises Avançadas no Power BI?
 

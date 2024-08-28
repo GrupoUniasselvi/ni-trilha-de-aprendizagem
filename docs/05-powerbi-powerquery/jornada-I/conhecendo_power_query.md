@@ -4,15 +4,13 @@ O Power Query Editor é uma ferramenta fundamental no Power BI para transformar 
 
 ---
 
-# Vídeos Recomendados:
-
 ## Como Sair do Zero no Power Query do Power BI
 
 Este tutorial é ideal para iniciantes que desejam entender os conceitos básicos do Power Query Editor. Ele cobre os fundamentos necessários para começar a usar a ferramenta de forma eficaz.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIbi152Vszg?si=vRjEdyFn-19ZzSnF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Curso Completo - Conhecendo e Explorando todo Ambiente
+## Conhecendo e Explorando todo Ambiente
 
 Para um entendimento mais aprofundado, este curso completo explora detalhadamente o ambiente do Power Query Editor, mostrando como navegar pelos menus e usar os recursos disponíveis para transformar dados com eficiência.
 

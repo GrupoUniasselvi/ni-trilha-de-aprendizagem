@@ -4,8 +4,6 @@ Os rankings são essenciais para analisar a posição relativa de itens dentro d
 
 ---
 
-# Leituras Recomendadas:
-
 ## RANKX
 
 A função RANKX é utilizada para calcular a classificação de um valor em relação a outros valores em uma tabela. É útil para criar rankings dinâmicos, onde você pode classificar itens com base em diferentes métricas ou critérios.
@@ -17,8 +15,6 @@ https://learn.microsoft.com/pt-br/dax/rankx-function-dax
 A função TOPN retorna as N primeiras linhas de uma tabela com base em uma ordenação especificada. Esta função é ideal para destacar os principais itens em um conjunto de dados, como os produtos mais vendidos ou os funcionários com melhor desempenho.
 
 https://learn.microsoft.com/pt-br/dax/topn-function-dax
-
-# Vídeos Recomendados:
 
 ## Como criar Rankings com RANKX e TOPN no Power BI
 

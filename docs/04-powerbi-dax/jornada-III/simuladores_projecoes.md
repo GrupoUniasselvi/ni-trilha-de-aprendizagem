@@ -4,8 +4,6 @@ No ambiente de negócios atual, projetar valores futuros é uma habilidade essen
  
  ----
 
-# Vídeos Recomendados:
-
 ## Como PROJETAR valores futuros para ATINGIR METAS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nexb6rb55kc?si=xVsC1ZNogl3Pwmy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

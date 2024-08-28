@@ -4,8 +4,6 @@ Neste tópico, exploraremos os diferentes tipos de dados disponíveis tanto no P
 
 ---
 
-# Leituras Recomendadas:
-
 ## Tipos de dados no Power BI Desktop
 
 Descubra como o Power BI Desktop categoriza e lida com diferentes tipos de dados para garantir que você possa trabalhar com suas informações de maneira adequada.
@@ -17,8 +15,6 @@ https://learn.microsoft.com/pt-br/power-bi/connect-data/desktop-data-types
 Explore os tipos de dados no Power Query e como eles afetam a transformação e manipulação dos dados antes de serem carregados no Power BI. 
 
 https://learn.microsoft.com/pt-br/power-query/data-types
-
-# Vídeos Recomendados:
 
 ## Diferentes tipos de dados entre Power Query e Power BI
 

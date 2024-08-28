@@ -4,8 +4,6 @@ Neste tópico, vamos explorar o uso do Editor Avançado para manipular consultas
 
 ---
 
-# Vídeos Recomendados:
-
 ## Editor Avançado de Power Query
 
 Assista ao vídeo que apresenta o Editor Avançado do Power Query, uma ferramenta poderosa para edição personalizada de consultas.
